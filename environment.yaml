@@ -15,4 +15,6 @@ dependencies:
   - h5netcdf
   - netcdf4
   - earthaccess
+  - shapely
   - zarr
+  - pystac-client
